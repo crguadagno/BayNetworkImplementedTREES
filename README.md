@@ -11,8 +11,8 @@ This repository contains input and output files to the Terrestrial Regional Ecos
 The manuscript is currently in revision and the reference will be updated accordingly:
 
 
-Use of transcriptomic data to inform biophysical models via Bayesian networks
-C.R. Guadagno, D. Millar, R. Lai, B. E. Ewers, D. S. Mackay, J. R. Pleban, C. R. McClung, D. R. Wang, C. Weinig
-(in revision for Ecological Modeling)
+C.R. Guadagno, D. Millar, R. Lai, B. E. Ewers, D. S. Mackay, J. R. Pleban, C. R. McClung, D. R. Wang, C. Weinig. Use of transcriptomic data to inform biophysical models via Bayesian networks (in revision for Ecological Modeling)
+
+
 
 
