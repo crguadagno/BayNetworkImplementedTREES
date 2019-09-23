@@ -1,6 +1,6 @@
 # BayNetworkImplementedTREES
 
-This repository contains input and output files to the Terrestrial Regional Ecosystem Exchange Simulator model (https://github.com/DRWang3/leaf_model_TREES_paper) used to test the concept of informing biophysical parameters with transcriptomic information.
+This repository contains input and output files to the Terrestrial Regional Ecosystem Exchange Simulator model (model version found here: https://github.com/DRWang3/leaf_model_TREES_paper) used to test the concept of informing biophysical parameters with transcriptomic information.
 
 * .txt file contains the metereological drivers
 
