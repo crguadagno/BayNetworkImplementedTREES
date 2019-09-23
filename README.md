@@ -8,7 +8,11 @@ This repository contains input and output files to the Terrestrial Regional Ecos
 
 * param_mod file describes the plant hydraulic architecture (e.g., root layers, depths)
 
-The manuscript is currently under review and the reference will be updated accordingly
+The manuscript is currently in revision and the reference will be updated accordingly:
 
+
+Use of transcriptomic data to inform biophysical models via Bayesian networks
+C.R. Guadagno, D. Millar, R. Lai, B. E. Ewers, D. S. Mackay, J. R. Pleban, C. R. McClung, D. R. Wang, C. Weinig
+(in revision for Ecological Modeling)
 
 
