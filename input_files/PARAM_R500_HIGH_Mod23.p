@@ -20,8 +20,8 @@
 0.04 0.001 0.010      Rd_mult, Rd=Rd_mult*Vcmax
 1.85 3.27 3.0    Jmax_mult, ratio of Jmax to Vcmax
 0.80 0.7 0.99     thetaJ, curvature parameter
-0.284 0.4 0.5   phiJ_sun, quantum yield, e-/photon
-0.284 0.2 0.5   phiJ_shd, quantum yield, e-/photon
+0.28 0.4 0.5   phiJ_sun, quantum yield, e-/photon
+0.28 0.2 0.5   phiJ_shd, quantum yield, e-/photon
 0.001815 0.0900    Nleaf
 0.0 0.785138 1.0 N_fixed_proportion
 0.05 0.16 0.2  Nrubisco, proportion
@@ -31,7 +31,7 @@
 1.2    q10Ko, (DIM) Q_10 for ko
 3.6    act25, (umol/mgRubisco/min) Rubisco activity
 2.4 2.0 3.0    q10act, (DIM) Q_10 for Rubisco activity (default was 2.4)
-0.352 1.0  	Gsref
+0.37 1.0  	Gsref
 0.54 0.487439 0.61  	m (proportion of Gsref)
 -0.1   Md
 -0.6 -1.0 -1.6 midday_at_sat_kl

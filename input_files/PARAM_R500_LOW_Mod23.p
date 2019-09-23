@@ -31,7 +31,7 @@
 1.2    q10Ko, (DIM) Q_10 for ko
 3.6    act25, (umol/mgRubisco/min) Rubisco activity
 2.4 2.0 3.0    q10act, (DIM) Q_10 for Rubisco activity (default was 2.4)
-0.354 1.0  	Gsref
+0.35 1.0  	Gsref
 0.54 0.487439 0.61  	m (proportion of Gsref)
 -0.1   Md
 -0.6 -1.0 -1.6 midday_at_sat_kl
